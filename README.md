@@ -73,6 +73,4 @@ def get_answer(tokenizer, model, question, context):
 - [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/)
 - [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805)
 
-## License
-This project is licensed under the MIT License.
 
